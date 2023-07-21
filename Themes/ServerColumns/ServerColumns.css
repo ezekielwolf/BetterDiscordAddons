@@ -1,7 +1,7 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/ThemeDevBadge.css);
 
 :root {
-	--columns: 3;
+	--columns: 4;
 	--guildsize: 50;
 	--guildgap: 3;
 	--aligndms: 1;
